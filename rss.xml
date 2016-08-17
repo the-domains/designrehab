@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DESIGNREHAB]]></title>
         <description><![CDATA[DESIGNREHAB]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/designrehab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 07:27:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 23:42:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/designrehab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>TEST </p>]]></description>
+            <link>https://thegrid.ai/designrehab/test/index.html</link>
+            <guid isPermaLink="false">479c8cf3-45f0-4992-a09b-5e4476ad1e01</guid>
+            <pubDate>Wed, 17 Aug 2016 23:42:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8252d92c-d039-4a4d-9445-62ae6854e79f.jpg">]]></description>
-            <link>undefined1fe9d372-1821-41bf-bf47-4300396dafa7/index.html</link>
+            <link>https://thegrid.ai/designrehab/1fe9d372-1821-41bf-bf47-4300396dafa7/index.html</link>
             <guid isPermaLink="false">1fe9d372-1821-41bf-bf47-4300396dafa7</guid>
             <pubDate>Mon, 21 Mar 2016 07:26:10 GMT</pubDate>
         </item>
