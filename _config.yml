@@ -1,7 +1,7 @@
 name: DESIGNREHAB
 favicon: null
-layout_spectrum: 0.9079902730882168
-typography_spectrum: 0.12998615368269384
+layout_spectrum: 1
+typography_spectrum: 0.84763
 cta:
   domain: null
   bucket: null
